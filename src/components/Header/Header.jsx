@@ -1,7 +1,7 @@
 import { Button } from "../Button/Button";
 import "./Header";
 
-export const Header = (props) => {
+export const Header = () => {
   const tg = window.Telegram.WebApp;
   const onClose = () => tg.close();
 
