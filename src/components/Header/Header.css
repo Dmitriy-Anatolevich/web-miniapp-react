@@ -4,9 +4,10 @@
     display: flex;
     align-items: center;
     padding: 0 20px;
+    justify-content: space-around;
 
 }
 
 .username{
-    margin-right: auto;
+    
 }
